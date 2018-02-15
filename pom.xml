@@ -26,6 +26,7 @@
               <version>2.6</version>
               <configuration>
                   <warName>ROOT</warName>
+				  <failOnMissingWebXml>false</failOnMissingWebXml>
               </configuration>
           </plugin>
       </plugins>
